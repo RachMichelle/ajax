@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color:white;
+    font-family: "Luckiest Guy";
+    font-weight: 350;
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+}
+
+#searchForm{
+    display: flex;
+    justify-content: center;
+    height: 35px;
+    margin-bottom: 10px;
+}
+
+#search{
+    width: 350px;
+}
+
+#searchBtn{
+    background-color: rgb(71, 69, 69);
+    color: white;
+    transition: .2s;
+    border: 1px solid transparent;
+    width:150px;
+}
+
+#searchBtn:hover{
+    background-color: grey;
+    border: 1px solid white;
+}
+
+#delAllBtn{
+    background-color: rgb(247, 118, 12);
+    color: white;
+    transition: .2s;
+    border: 1px solid transparent;
+    width:150px;
+}
+
+#delAllBtn:hover{
+    background-color:rgb(248, 161, 89);
+    border:1px solid white;
+}
+
+.gif{
+    display: inline-block;
+    position: relative;
+    color:white;
+}

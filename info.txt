@@ -1,0 +1,2 @@
+api_key : pPA10qpPqy8kPY9fkLkH5d7iUq80MtbA
+search endpoint URL : api.giphy.com/v1/gifs/search
